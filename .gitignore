@@ -1,0 +1,34 @@
+node_modules/
+.pnpm-store/
+
+# Next.js and static build output
+.next/
+.next-dev/
+out/
+build/
+dist/
+.turbo/
+.vercel/
+coverage/
+
+# Local environment settings (keep an example if one is added)
+.env
+.env.*
+!.env.example
+
+# Logs and operating system files
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Generated TypeScript and Next.js files
+*.tsbuildinfo
+next-env.d.ts

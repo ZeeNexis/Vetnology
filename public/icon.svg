@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vetnology">
+  <rect width="64" height="64" rx="13" fill="#0b1924"/>
+  <path d="M10 20 24 7h25L35 20H10Z" fill="#8de2c0"/>
+  <path d="M49 7 58 18v25L45 29V18L49 7Z" fill="#8de2c0" opacity=".76"/>
+  <path d="M58 43 44 57H19l14-13h25Z" fill="#8de2c0"/>
+  <path d="M19 57 6 45V20l13 14v11Z" fill="#8de2c0" opacity=".76"/>
+  <path d="m23 29 9-9 9 9-9 9-9-9Z" fill="#8de2c0" opacity=".5"/>
+</svg>
