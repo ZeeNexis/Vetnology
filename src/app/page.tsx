@@ -44,7 +44,7 @@ export default function Home() {
         <div className="hero-grid" aria-hidden="true" />
         <div className="container hero-layout">
           <div className="hero-copy">
-            <p className="eyebrow eyebrow-light"><span className="eyebrow-line" /> Software & AI development</p>
+            <p className="eyebrow eyebrow-light">Software &amp; AI development</p>
             <h1>Build what your business <em>needs next.</em></h1>
             <p className="hero-lead">We design and develop software, mobile apps, and AI solutions that solve operational problems and create better experiences for the people you serve.</p>
             <div className="hero-actions">
@@ -76,7 +76,7 @@ export default function Home() {
       <section className="section services-overview" aria-labelledby="services-title">
         <div className="container">
           <div className="section-heading split-heading">
-            <div><p className="eyebrow">What we do</p><h2 id="services-title">Digital solutions with a job to do.</h2></div>
+            <div><p className="eyebrow">What we do</p><h2 id="services-title">Solutions for real business challenges.</h2></div>
             <p>Whether you need a new product or a better way to operate, we connect business needs with sound design and engineering.</p>
           </div>
           <div className="service-grid">
